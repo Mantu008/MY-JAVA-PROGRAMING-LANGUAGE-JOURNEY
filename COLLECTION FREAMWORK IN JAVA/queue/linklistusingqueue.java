@@ -5,7 +5,7 @@ public class linklistusingqueue {
     public static void main(String[] args) {
         Queue<Integer> num=new LinkedList<>();
  
-        // offer function is use to add element in linklist 
+        //offer function is use to add element in linklist 
         num.offer(10);
         num.offer(16);
         num.offer(78);
